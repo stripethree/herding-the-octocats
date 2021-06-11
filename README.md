@@ -1,2 +1,2 @@
-# wrangling-the-octocats
+# herding-the-octocats
 Fun with the GitHub API
